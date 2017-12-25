@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Universal Messenger</string>
+    <string name="send">Send Message</string>
+    <string name="chooser">Send message....</string>
+</resources>
